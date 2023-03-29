@@ -1,0 +1,96 @@
+[[PRIMME]]
+arch = "aarch64"
+git-tree-sha1 = "6a929b06581e41672b7ee072c1ebd9da29d289cc"
+os = "macos"
+
+    [[PRIMME.download]]
+    sha256 = "5f497f6fda8a5517bc952424849fff47b2eed72e9299cb370b04a37044852ecd"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.aarch64-apple-darwin.tar.gz"
+[[PRIMME]]
+arch = "aarch64"
+git-tree-sha1 = "33e2e39c2f5e651f27e72430a6e11a2ec529cca8"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "5c657b5d62662ccb24deeb2114fc7a4dd6231e077ebb59fa3edf383b1f415b01"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.aarch64-linux-gnu.tar.gz"
+[[PRIMME]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0471cfc5ed74594daf8c9b2a47462695431f5b85"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "360137e3b75a769e50e3675422dd596db2d18e2f35516e5c40312d66f787a023"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[PRIMME]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fc80784b7181973b241d4a69e35b701f2d8cf9cc"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "db530521eabe34d1cd642d514102f44e3e630279d2775b8a065bfdc0a74d5212"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[PRIMME]]
+arch = "i686"
+git-tree-sha1 = "10a7f20430fb0f9462bb7301f5bf3ab2ad71a7d9"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "8b45935cd27893c09d44a521b4448c6717209c82b331254752b1d84b49af6175"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.i686-linux-gnu.tar.gz"
+[[PRIMME]]
+arch = "i686"
+git-tree-sha1 = "d1b92d816e2bd24860a2dc10bbb1462f1cc0357d"
+os = "windows"
+
+    [[PRIMME.download]]
+    sha256 = "b147dea5b2256d9c0b7903213e30d704b2db4adaa69267c3add628b610e40f05"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.i686-w64-mingw32.tar.gz"
+[[PRIMME]]
+arch = "powerpc64le"
+git-tree-sha1 = "896e7ea815cf0341de97a2f31b16c50268a6b927"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "ede2d2e4e496d11488ae09e537cd9ea7f080f282e00d724aaed47d7f1cec003d"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.powerpc64le-linux-gnu.tar.gz"
+[[PRIMME]]
+arch = "x86_64"
+git-tree-sha1 = "116bbe3d1dd66faa3789f991b286213fba122c37"
+os = "macos"
+
+    [[PRIMME.download]]
+    sha256 = "c6fc43d1a02b24c1bb48eb89ab42eaca8c8dcfb561f6f23d2e4c6adcb6da13d5"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.x86_64-apple-darwin.tar.gz"
+[[PRIMME]]
+arch = "x86_64"
+git-tree-sha1 = "85f43d287ae3cd5a960b36d8a5e71f8f0116f0e2"
+libc = "glibc"
+os = "linux"
+
+    [[PRIMME.download]]
+    sha256 = "ec23b703218ba0851fa996ea57639f5ba53839889365664603fe3c1eb6214372"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.x86_64-linux-gnu.tar.gz"
+[[PRIMME]]
+arch = "x86_64"
+git-tree-sha1 = "adbc2f8e1f7482872286ebbe8acae1f889c083bc"
+os = "freebsd"
+
+    [[PRIMME.download]]
+    sha256 = "c7f46e95ad198d9e42899b7574da408a42da95cf5decb747dc2bf5152330200a"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.x86_64-unknown-freebsd.tar.gz"
+[[PRIMME]]
+arch = "x86_64"
+git-tree-sha1 = "521d6f95db810a2ee15cea6c13b725783d589819"
+os = "windows"
+
+    [[PRIMME.download]]
+    sha256 = "8d0a86e8819fd08da0539ed75d876a6c143315ad68cf3d59e3cb3dc732e4d7a1"
+    url = "https://github.com/JuliaBinaryWrappers/PRIMME_jll.jl/releases/download/PRIMME-v3.2.0+0/PRIMME.v3.2.0.x86_64-w64-mingw32.tar.gz"
